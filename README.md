@@ -1,1 +1,3 @@
-# de-utec-manu
+# DE UTEC
+- Introducción
+- Metodología
